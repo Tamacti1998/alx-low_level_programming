@@ -1,1 +1,1 @@
-When I was having
+When
