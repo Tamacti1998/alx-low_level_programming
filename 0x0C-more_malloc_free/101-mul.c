@@ -142,7 +142,7 @@ for (ti = 0; e[ti]; ti++)
 _putchar(e[ti]);
 exit(98);
 }
-int(a, ln - 1);
+init(a, ln - 1);
 for (ti = l2 - 1, i = 0; ti >= 0; ti--, i++)
 {
 t = mul(argv[2][ti], argv[1], l1 - 1, a, (ln - 2) - i);
